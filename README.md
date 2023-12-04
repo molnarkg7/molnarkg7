@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Đorđe Molnar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=molnarkg7&label=Profile%20views&color=0e75b6&style=flat" alt="molnarkg7" /> </p>
+<h1 align="left">Hi 👋, I'm Đorđe Molnar</h1>
 
 📫 How to reach me **molnarkg7@gmail.com**
 
@@ -24,3 +23,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=molnarkg7&" alt="molnarkg7" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=molnarkg7&label=Profile%20views&color=0e75b6&style=flat" alt="molnarkg7" /> </p>
